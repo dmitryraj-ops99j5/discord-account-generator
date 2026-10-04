@@ -9,3 +9,5 @@ pip install -r requirements.txt
 ## usage
 
 The tool skips already-used emails and writes valid tokens as newline-delimited JSON. Expect some failures; Discord's registration flow changes often and this is best-effort.
+
+<!-- updated: 2026-10-04 -->
